@@ -1,0 +1,6 @@
+{
+  "name": "GudangPro - Manajemen Inventaris & Notifikasi Stok Menipis",
+  "description": "Aplikasi web manajemen inventaris gudang modern dengan pelacakan barang masuk/keluar, audit mutasi stok, tata letak rak, dan sistem notifikasi pintar untuk stok menipis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
